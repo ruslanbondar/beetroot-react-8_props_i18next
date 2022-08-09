@@ -1,0 +1,17 @@
+.header {
+  height: 50px;
+  background-color: blanchedalmond;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link {
+  list-style: none;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.activeLang {
+  background-color: aqua;
+}
